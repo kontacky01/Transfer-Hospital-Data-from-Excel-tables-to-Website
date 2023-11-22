@@ -1,8 +1,8 @@
 /** -------------------------------------------------------
  * Assignment (3)
  * Due March 25th
- * Written by: (Natasha Uwase 40212108)
- * For COMP 249 Section (WW) – Winter 2022
+ * Written by: (Natasha Uwase)
+ * For COMP 249 Section (WW) â€“ Winter 2022
  * --------------------------------------------------------
  * This is the CSVDataMissing class that handles what should be done in case a data is missing from the content
  * the class takes one parameter @param filename which stores the name of the file to be processed and @param line that stores the number of the line where data is missing
