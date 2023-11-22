@@ -1,8 +1,8 @@
 /** -------------------------------------------------------
  * Assignment (3)
  * Due March 25th
- * Written by: (Natasha Uwase 40212108)
- * For COMP 249 Section (WW) – Winter 2022
+ * Written by: (Natasha Uwase)
+ * For COMP 249 Section (WW) â€“ Winter 2022
  * --------------------------------------------------------
  * This is the CSV2HTML class that implements the previous classes which includes one @param track used to see if a html file was created successfully
  * The class contains three methods: @method tokenizeTitle and @method tokenizeAttributes @method tokenizeData to split the content of a csv file to make a html file out of it
